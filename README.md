@@ -16,6 +16,7 @@ Based on the table, write a Java program to:
 
 ## Example of the output
 ```
+Money (RM): 150
 ----------------------------------------
 12 set (288 bottles) x 12.0 -> RM144.00
 0 bottles x 8.0 -> RM0.00
