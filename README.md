@@ -18,18 +18,19 @@ Based on the table, write a Java program to:
 ```
 Money (RM): 150
 ----------------------------------------
-12 set (288 bottles) x 12.0 -> RM144.00
-0 bottles x 8.0 -> RM0.00
-6 bottles x 1.0 -> RM6.00
-Total: RM150.00
+12 set A (288 bottles) x RM12.0 = RM144.00
+0 set B (0 bottles) x RM8.0 = RM0.00
+6 bottle(s) x RM1.0 = RM6.00
+Total Bottle(s): 294
+Total Price: RM150.00
 Balance: RM0.00
 ----------------------------------------
 
 Quantity (bottles): 70
---------------------------------------
-2 set (48 bottles) -> RM24.00
-20 bottles -> RM16.00
-2 bottles -> RM2.00
-Total: RM42.00
---------------------------------------
+----------------------------------------
+2 set A (48 bottles) x RM12.0 = RM24.00
+2 set B (20 bottles) x RM8.0 = RM16.00
+2 bottle(s) x RM1.0 = RM2.00
+Total Price: RM42.00
+----------------------------------------
 ```
